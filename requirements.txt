@@ -1,0 +1,5 @@
+# Not a keylogger/Zoom.py: 2
+pynput == 1.7.1
+
+# Not a keylogger/Zoom.py: 6
+requests == 2.24.0
